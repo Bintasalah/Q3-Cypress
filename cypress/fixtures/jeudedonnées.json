@@ -1,0 +1,17 @@
+[
+    {
+       "title":"note1", 
+       "description":"mangue",
+       "category":"Home"
+    },
+    {
+        "title":"note2", 
+        "description":"orange",
+        "category":"Work"
+    },
+    {
+        "title":"note3", 
+        "description":"kiwi",
+        "category":"Personal"
+    }
+]
